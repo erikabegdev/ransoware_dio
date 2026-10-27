@@ -25,23 +25,6 @@ O projeto possui finalidade exclusivamente **educacional e experimental**, volta
 - **Cryptography** — Biblioteca Python para operações criptográficas.
 - **Git e GitHub** — Versionamento e documentação.
 
-## 📂 Estrutura do projeto
-
-```text
-ransomware-python/
-│
-├── encrypter/
-│   └── README.md
-│
-├── decrypter/
-│   └── README.md
-│
-├── testes/
-│   └── teste.txt
-│
-└── README.md
-```
-
 A estrutura acima representa a organização inicial proposta. Os módulos serão documentados conforme o desenvolvimento.
 
 ## ⚙️ Funcionamento da simulação
