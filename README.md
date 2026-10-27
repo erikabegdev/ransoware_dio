@@ -54,14 +54,5 @@ Não serão realizadas operações em sistemas de terceiros, diretórios pessoai
 - Análise de comportamento de ameaças.
 - Documentação técnica e versionamento.
 
-## 🚧 Status do projeto
-
-**Em desenvolvimento.**
-
-## ⚠️ Aviso legal
-
-Este repositório destina-se exclusivamente ao estudo de segurança da informação. Não tem como objetivo desenvolver ou distribuir ferramentas para extorsão, acesso não autorizado ou comprometimento de sistemas.
-
----
 
 **Desenvolvido para fins de aprendizado e aprimoramento de conhecimentos em Cibersegurança e Python.**
